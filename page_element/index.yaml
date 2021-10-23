@@ -1,0 +1,10 @@
+登录:
+  by: "css selector"
+  value: ".index_top_operation_loginBtn"
+注册:
+  by: "css selector"
+  value: ".index_head_info_pCDownloadBtn"
+使用手册:
+  by: "css selector"
+  value: ".frame_foot_nav_item:nth-child(4)>ul:nth-child(2)>li:nth-child(3)>a"
+

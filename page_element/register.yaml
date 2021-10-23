@@ -1,0 +1,48 @@
+注册企业微信:
+  by: "css selector"
+  value: ".register_simple_header_title"
+企业名称:
+  by: "id"
+  value: "corp_name"
+企业名称输入提示:
+  by: "css selector"
+  value: "#corp_name+.register_column_item_tip"
+行业类型:
+  by: "id"
+  value: "corp_industry"
+IT服务:
+  by: "css selector"
+  value: '.register_industry_maintype_item[data-name="IT服务"]'
+互联网和相关服务:
+  by: "css selector"
+  value: '.js_register_industry_subtype_item[data-name="互联网和相关服务"]'
+员工规模:
+  by: "id"
+  value: "corp_scale_btn"
+101-200人:
+  by: "css selector"
+  value: '#corp_scale_btn .ww_dropdownMenu:nth-child(2) li:nth-child(3)'
+管理员姓名:
+  by: "id"
+  value: "manager_name"
+区号:
+  by: "css selector"
+  value: ".ww_telInput_zipCode_input"
+手机号:
+  by: "id"
+  value: "register_tel"
+短信验证码:
+  by: "id"
+  value: "vcode"
+获取验证码:
+  by: "id"
+  value: "get_vcode"
+我同意:
+  by: "id"
+  value: "iagree"
+注册:
+  by: "id"
+  value: "submit_btn"
+帮助中心:
+  by: "css selector"
+  value: ".frame_foot_nav>a:nth-last-child(3)"

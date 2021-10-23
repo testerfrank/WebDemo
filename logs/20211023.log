@@ -1,0 +1,5 @@
+2021-10-23 16:06:03,167	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_top_operation_loginBtn')
+2021-10-23 16:06:03,168	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_top_operation_loginBtn')
+2021-10-23 16:06:03,232	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 16:06:03,290	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="d7340b4e3977699511829662cf20441f", element="e92e70cb-799a-4d49-a2d2-3322d1a9a6c4")>
+2021-10-23 16:06:04,634	INFO	basepage.py:[current_url:175]	当前窗口url:https://work.weixin.qq.com/wework_admin/loginpage_wx?from=myhome
