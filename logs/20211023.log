@@ -3,3 +3,282 @@
 2021-10-23 16:06:03,232	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
 2021-10-23 16:06:03,290	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="d7340b4e3977699511829662cf20441f", element="e92e70cb-799a-4d49-a2d2-3322d1a9a6c4")>
 2021-10-23 16:06:04,634	INFO	basepage.py:[current_url:175]	当前窗口url:https://work.weixin.qq.com/wework_admin/loginpage_wx?from=myhome
+2021-10-23 17:00:07,836	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_top_operation_loginBtn')
+2021-10-23 17:00:07,836	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_top_operation_loginBtn')
+2021-10-23 17:00:07,925	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:07,975	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="a97b406e1b9bece8eec299b7db56c508", element="9bda0a60-4f63-43f2-9180-e934bc1aedb9")>
+2021-10-23 17:00:09,091	INFO	basepage.py:[current_url:175]	当前窗口url:https://work.weixin.qq.com/wework_admin/loginpage_wx?from=myhome
+2021-10-23 17:00:20,116	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:00:20,117	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:00:20,191	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:20,254	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="acba1a413c1624db32d417c38c8d6b62", element="96c3f590-68c4-4e7e-9387-d76f02a6a9e4")>
+2021-10-23 17:00:21,563	INFO	basepage.py:[current_url:175]	当前窗口url:https://work.weixin.qq.com/wework_admin/register_wx?from=myhome
+2021-10-23 17:00:31,743	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.frame_foot_nav_item:nth-child(4)>ul:nth-child(2)>li:nth-child(3)>a')
+2021-10-23 17:00:31,743	INFO	basepage.py:[find:66]	查找元素:('css selector', '.frame_foot_nav_item:nth-child(4)>ul:nth-child(2)>li:nth-child(3)>a')
+2021-10-23 17:00:31,823	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:31,896	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="eba06724d8e03aad38cc38d0357b6cf7", element="d05ef4a2-8c6f-4583-ac14-9ec5af6b308a")>
+2021-10-23 17:00:43,360	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_top_operation_loginBtn')
+2021-10-23 17:00:43,361	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_top_operation_loginBtn')
+2021-10-23 17:00:43,442	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:43,514	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="1e81d5eaef52dfb6c6fb40f72fb05a01", element="bd155b18-adbd-4bf9-aa71-1d7b0d487744")>
+2021-10-23 17:00:44,488	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.login_registerBar_link')
+2021-10-23 17:00:44,488	INFO	basepage.py:[find:66]	查找元素:('css selector', '.login_registerBar_link')
+2021-10-23 17:00:44,510	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:44,528	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="1e81d5eaef52dfb6c6fb40f72fb05a01", element="f9384e33-279c-4f65-86cb-e71efe332584")>
+2021-10-23 17:00:45,136	INFO	basepage.py:[current_url:175]	当前窗口url:https://work.weixin.qq.com/wework_admin/register_wx?from=myhome
+2021-10-23 17:00:55,709	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:00:55,709	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:00:55,780	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:55,831	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="22216f8112720abb9be8eeb2002cdb46", element="63a3c9e9-cc47-4689-99b8-ce09c60dad88")>
+2021-10-23 17:00:57,074	INFO	basepage.py:[find_and_click:80]	查找并点击:('id', 'corp_name')
+2021-10-23 17:00:57,075	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:00:57,087	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:57,093	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="22216f8112720abb9be8eeb2002cdb46", element="bb7fd54b-c9f6-4ad6-b0d7-4033066b50d1")>
+2021-10-23 17:00:57,168	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:00:57,188	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:57,195	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="22216f8112720abb9be8eeb2002cdb46", element="4358be1c-d484-4910-b185-8e3e5ca06558")>
+2021-10-23 17:00:57,330	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:00:57,773	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:00:57,773	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:00:57,785	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:57,792	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="22216f8112720abb9be8eeb2002cdb46", element="58afddcd-980c-4c0d-8dc8-88b2ef138cef")>
+2021-10-23 17:00:57,830	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:00:57,838	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:00:57,843	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="22216f8112720abb9be8eeb2002cdb46", element="4358be1c-d484-4910-b185-8e3e5ca06558")>
+2021-10-23 17:00:57,852	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):由1-30个中文、英文、数字及合法字符组成
+2021-10-23 17:01:07,928	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:07,928	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:08,001	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:08,053	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="23be276876b54b2da06c60b8236364ba", element="0b9417cc-78f7-4073-82d1-2e42c6b2922e")>
+2021-10-23 17:01:09,278	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),中
+2021-10-23 17:01:09,279	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:01:09,289	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:09,298	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="23be276876b54b2da06c60b8236364ba", element="df9ab9e4-3f00-4d2f-a402-877ec569075a")>
+2021-10-23 17:01:09,497	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:09,497	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:09,508	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:09,520	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="23be276876b54b2da06c60b8236364ba", element="c2c14c39-fb2d-4301-b271-e774d812c92c")>
+2021-10-23 17:01:09,573	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:01:09,600	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:09,607	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="23be276876b54b2da06c60b8236364ba", element="4dc838a3-9ed9-4f45-82b2-1817663ea149")>
+2021-10-23 17:01:09,623	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:01:19,690	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:19,690	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:19,763	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:19,821	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="53b44f97bd69c7cc08518b62f5976287", element="7be1d54b-875e-4f83-801e-df6ab52e54d7")>
+2021-10-23 17:01:21,027	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),中文
+2021-10-23 17:01:21,027	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:01:21,040	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:21,045	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="53b44f97bd69c7cc08518b62f5976287", element="caf5595b-5560-4a62-b377-0efa77b1dd56")>
+2021-10-23 17:01:21,103	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:21,103	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:21,117	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:21,129	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="53b44f97bd69c7cc08518b62f5976287", element="8c9de0e6-b7ae-46db-915c-d65d73df42c0")>
+2021-10-23 17:01:21,168	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:01:21,194	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:21,199	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="53b44f97bd69c7cc08518b62f5976287", element="8e9107eb-817e-412e-92c1-0c62c1874b00")>
+2021-10-23 17:01:21,212	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:01:31,462	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:31,462	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:31,544	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:31,601	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="19dfed7d861ee0f3f46c7066df055c0c", element="e2a646f1-56a5-414c-9f72-133774e6d83c")>
+2021-10-23 17:01:32,787	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),注册企业微信注册企业微信注册企业微信注册企业微信注册企业微
+2021-10-23 17:01:32,787	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:01:32,800	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:32,806	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="19dfed7d861ee0f3f46c7066df055c0c", element="0b8f200d-3fe4-4457-8566-b393a543e111")>
+2021-10-23 17:01:32,916	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:32,916	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:32,927	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:32,942	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="19dfed7d861ee0f3f46c7066df055c0c", element="78c25d55-cbe4-4299-95ad-3d6020c2c3d4")>
+2021-10-23 17:01:32,991	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:01:33,018	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:33,022	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="19dfed7d861ee0f3f46c7066df055c0c", element="ff8ad17d-1e22-4084-b937-60d5d10e4677")>
+2021-10-23 17:01:33,036	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:01:43,188	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:43,188	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:43,270	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:43,330	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="ec472924165ef442e1fb578913af6aeb", element="74cc5e1f-8b5f-4542-b775-bbc432b6a7de")>
+2021-10-23 17:01:44,606	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),注册企业微信注册企业微信注册企业微信注册企业微信注册企业微信
+2021-10-23 17:01:44,608	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:01:44,625	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:44,633	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="ec472924165ef442e1fb578913af6aeb", element="9e7b882d-e3d3-46a6-8346-b50de2116cf4")>
+2021-10-23 17:01:44,731	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:44,732	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:44,741	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:44,746	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="ec472924165ef442e1fb578913af6aeb", element="848174ac-06cb-4361-86df-02a12726ae09")>
+2021-10-23 17:01:44,793	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:01:44,826	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:44,835	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="ec472924165ef442e1fb578913af6aeb", element="516aaf0d-a70a-47e5-881d-a4e0835b0ede")>
+2021-10-23 17:01:44,855	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:01:55,239	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:55,239	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:01:55,322	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:55,383	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fbf5e5d7bab2d5171ba96b2bb972689b", element="c79f6f2a-0f49-42ba-85e6-08790133c3d1")>
+2021-10-23 17:01:56,672	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),注册企业微信注册企业微信注册企业微信注册企业微信注册企业微信号
+2021-10-23 17:01:56,672	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:01:56,685	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:56,691	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fbf5e5d7bab2d5171ba96b2bb972689b", element="cd8f81ce-1793-4d2a-b952-cba93c107d36")>
+2021-10-23 17:01:56,814	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:56,814	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:01:56,824	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:56,829	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fbf5e5d7bab2d5171ba96b2bb972689b", element="17d30229-f3b6-41e7-b298-a961d3f84433")>
+2021-10-23 17:01:56,877	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:01:56,898	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:01:56,905	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fbf5e5d7bab2d5171ba96b2bb972689b", element="b6783844-ca1e-48db-ba97-a30b28b32a70")>
+2021-10-23 17:01:56,918	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):由1-30个中文、英文、数字及合法字符组成
+2021-10-23 17:02:07,080	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:07,080	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:07,155	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:07,213	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9a350cf6745c3b1aac24d7f10118d83a", element="89c47d26-fd3f-485f-82f0-b196a1593959")>
+2021-10-23 17:02:08,283	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),注册企业微信注册企业微信注册企业微信注册企业微信注册企业微信号show database;
+2021-10-23 17:02:08,283	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:02:08,296	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:08,307	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9a350cf6745c3b1aac24d7f10118d83a", element="808ed183-9364-4987-b864-be07f75e0dd8")>
+2021-10-23 17:02:08,482	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:08,483	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:08,502	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:08,506	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9a350cf6745c3b1aac24d7f10118d83a", element="f124deb8-ad79-4075-b7fe-c14662eefad7")>
+2021-10-23 17:02:08,546	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:02:08,564	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:08,579	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9a350cf6745c3b1aac24d7f10118d83a", element="3d153494-a96c-4e9c-8fd8-6c1492e75204")>
+2021-10-23 17:02:08,598	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):由1-30个中文、英文、数字及合法字符组成
+2021-10-23 17:02:18,759	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:18,759	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:18,829	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:18,880	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fcabecf728edadcc2080f3530adcc198", element="40a46fb7-90f2-405d-8837-7412460e6947")>
+2021-10-23 17:02:19,986	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),test
+2021-10-23 17:02:19,986	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:02:20,001	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:20,011	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fcabecf728edadcc2080f3530adcc198", element="72f4a1f2-18d5-468e-9e28-ff8e96e26c4d")>
+2021-10-23 17:02:20,105	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:20,105	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:20,136	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:20,157	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fcabecf728edadcc2080f3530adcc198", element="ca44c53b-29dc-4471-8a03-a510a2034773")>
+2021-10-23 17:02:20,202	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:02:20,225	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:20,232	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="fcabecf728edadcc2080f3530adcc198", element="19ffb698-5e3c-4313-9dea-bf60bfb7b544")>
+2021-10-23 17:02:20,245	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:02:30,247	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:30,247	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:30,326	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:30,399	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9df4db8debd1cf640e0b6f3bece31c92", element="0125b07b-3f21-4ee0-ad78-2ab0f9e4ce4c")>
+2021-10-23 17:02:31,426	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),123
+2021-10-23 17:02:31,426	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:02:31,435	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:31,451	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9df4db8debd1cf640e0b6f3bece31c92", element="6e2cd249-bf28-46e6-b604-8d32270bf3ef")>
+2021-10-23 17:02:31,544	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:31,544	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:31,585	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:31,590	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9df4db8debd1cf640e0b6f3bece31c92", element="6d3df75a-5107-4bfe-8939-ffea01eba9ff")>
+2021-10-23 17:02:31,634	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:02:31,659	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:31,670	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9df4db8debd1cf640e0b6f3bece31c92", element="6ca3c6df-dd29-4caa-aa19-d0c6be95274f")>
+2021-10-23 17:02:31,686	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:02:41,792	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:41,793	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:41,878	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:41,929	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="46fc37c319cda55d475d4f630557819f", element="05da3ec7-bdd8-43b4-b0a6-ca97fbc8556f")>
+2021-10-23 17:02:43,011	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),_234tegf@$
+2021-10-23 17:02:43,011	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:02:43,028	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:43,038	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="46fc37c319cda55d475d4f630557819f", element="e387b5f5-2df5-4d99-bb9d-7831dc5f3c6e")>
+2021-10-23 17:02:43,168	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:43,168	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:43,195	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:43,199	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="46fc37c319cda55d475d4f630557819f", element="ac5e1cc7-16ef-4733-86d4-7735d611cdf3")>
+2021-10-23 17:02:43,248	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:02:43,271	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:43,276	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="46fc37c319cda55d475d4f630557819f", element="4f6a3b84-4f30-4144-a76f-aa92a6cfbe26")>
+2021-10-23 17:02:43,294	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:02:53,508	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:53,509	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:02:53,590	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:53,680	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="b621ad4502e92b50d214fb9612f7c42b", element="bd152b2b-d218-473c-bbbb-632de9cd01cc")>
+2021-10-23 17:02:54,801	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),pojfd9956注册辛苦辛苦
+2021-10-23 17:02:54,801	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:02:54,814	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:54,822	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="b621ad4502e92b50d214fb9612f7c42b", element="b7dba9df-30ff-45cc-84c6-c54b8614b6e4")>
+2021-10-23 17:02:54,910	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:54,910	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:02:54,920	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:54,928	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="b621ad4502e92b50d214fb9612f7c42b", element="5bc6a1d5-2c55-41ff-b3dd-3f8e6d56f281")>
+2021-10-23 17:02:54,989	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:02:55,011	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:02:55,019	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="b621ad4502e92b50d214fb9612f7c42b", element="2c6a1608-b3ce-49d1-8840-81966c68d126")>
+2021-10-23 17:02:55,035	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:03:05,060	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:05,061	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:05,130	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:05,192	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="7aa76e5b3afe562c262c3c912c66147d", element="64e4fc7e-3f6e-4ad6-958f-70e7cad0c5cf")>
+2021-10-23 17:03:06,411	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),~!@#$%^&*()()_+=-`./\';,
+2021-10-23 17:03:06,413	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:03:06,422	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:06,432	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="7aa76e5b3afe562c262c3c912c66147d", element="c1c3a3b3-2a77-48f8-a286-ad7213102040")>
+2021-10-23 17:03:06,543	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:03:06,543	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:03:06,554	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:06,559	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="7aa76e5b3afe562c262c3c912c66147d", element="e0a928e4-cf23-45b5-8122-f1f96fd76a86")>
+2021-10-23 17:03:06,603	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:03:06,626	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:06,632	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="7aa76e5b3afe562c262c3c912c66147d", element="dfe325f1-eec8-4e73-b5a3-2d4294658387")>
+2021-10-23 17:03:06,650	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):填写企业、政府或组织名称
+2021-10-23 17:03:16,875	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:16,875	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:16,953	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:17,009	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="5a18e64ea5f8ca2f97a28c4a781f89ef", element="c7b08eec-bca4-41f4-ab99-16df8b634a14")>
+2021-10-23 17:03:18,224	INFO	basepage.py:[find_and_send:85]	查找并输入文本:('id', 'corp_name'),汉字&^%
+2021-10-23 17:03:18,225	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_name')
+2021-10-23 17:03:18,238	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:18,245	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="5a18e64ea5f8ca2f97a28c4a781f89ef", element="8b2fefae-0475-484b-a2a2-1175ce5adab9")>
+2021-10-23 17:03:18,315	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_simple_header_title')
+2021-10-23 17:03:18,316	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_simple_header_title')
+2021-10-23 17:03:18,329	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:18,337	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="5a18e64ea5f8ca2f97a28c4a781f89ef", element="bb8ad379-5dba-4c85-b321-26225b147960")>
+2021-10-23 17:03:18,379	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_name+.register_column_item_tip')
+2021-10-23 17:03:18,400	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:18,406	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="5a18e64ea5f8ca2f97a28c4a781f89ef", element="c63b7f88-40db-4b83-bfad-35336827b047")>
+2021-10-23 17:03:18,422	INFO	basepage.py:[get_text:106]	获取文本:('css selector', '#corp_name+.register_column_item_tip'):由1-30个中文、英文、数字及合法字符组成
+2021-10-23 17:03:28,801	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:28,801	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:28,885	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:28,938	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9adde3c44e0a4017996c9e7a185312c3", element="742de8f4-f953-40fb-9007-2ca3232a5b84")>
+2021-10-23 17:03:30,022	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_industry')
+2021-10-23 17:03:30,036	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:30,045	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9adde3c44e0a4017996c9e7a185312c3", element="8c18e8ca-0f99-4698-a72d-2a087f20902d")>
+2021-10-23 17:03:30,076	INFO	basepage.py:[get_text:106]	获取文本:('id', 'corp_industry'):选择行业类型
+2021-10-23 17:03:30,089	INFO	basepage.py:[find_and_click:80]	查找并点击:('id', 'corp_industry')
+2021-10-23 17:03:30,090	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_industry')
+2021-10-23 17:03:30,105	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:30,109	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9adde3c44e0a4017996c9e7a185312c3", element="8c18e8ca-0f99-4698-a72d-2a087f20902d")>
+2021-10-23 17:03:30,230	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.register_industry_maintype_item[data-name="IT服务"]')
+2021-10-23 17:03:30,230	INFO	basepage.py:[find:66]	查找元素:('css selector', '.register_industry_maintype_item[data-name="IT服务"]')
+2021-10-23 17:03:30,244	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:30,251	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9adde3c44e0a4017996c9e7a185312c3", element="f1acf421-5a56-4f85-a841-299a8c452fe5")>
+2021-10-23 17:03:30,356	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.js_register_industry_subtype_item[data-name="互联网和相关服务"]')
+2021-10-23 17:03:30,356	INFO	basepage.py:[find:66]	查找元素:('css selector', '.js_register_industry_subtype_item[data-name="互联网和相关服务"]')
+2021-10-23 17:03:30,394	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:30,400	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9adde3c44e0a4017996c9e7a185312c3", element="548461ac-b57a-4ff2-a9b1-9a9b499d80dd")>
+2021-10-23 17:03:30,503	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_industry')
+2021-10-23 17:03:30,514	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:30,521	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="9adde3c44e0a4017996c9e7a185312c3", element="8c18e8ca-0f99-4698-a72d-2a087f20902d")>
+2021-10-23 17:03:30,542	INFO	basepage.py:[get_text:106]	获取文本:('id', 'corp_industry'):IT服务 互联网和相关服务
+2021-10-23 17:03:40,748	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:40,748	INFO	basepage.py:[find:66]	查找元素:('css selector', '.index_head_info_pCDownloadBtn')
+2021-10-23 17:03:40,843	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:40,920	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="eae22f15d77afe06bfe8242110f3c654", element="095d1db7-edc5-4e8f-b5fa-03b90aa2037b")>
+2021-10-23 17:03:42,030	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_scale_btn')
+2021-10-23 17:03:42,047	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:42,057	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="eae22f15d77afe06bfe8242110f3c654", element="bfd3340c-b30c-4352-a276-f30a6177ee4f")>
+2021-10-23 17:03:42,085	INFO	basepage.py:[get_text:106]	获取文本:('id', 'corp_scale_btn'):选择员工规模
+2021-10-23 17:03:42,099	INFO	basepage.py:[find_and_click:80]	查找并点击:('id', 'corp_scale_btn')
+2021-10-23 17:03:42,100	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_scale_btn')
+2021-10-23 17:03:42,121	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:42,131	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="eae22f15d77afe06bfe8242110f3c654", element="bfd3340c-b30c-4352-a276-f30a6177ee4f")>
+2021-10-23 17:03:42,255	INFO	basepage.py:[find_and_click:80]	查找并点击:('css selector', '#corp_scale_btn .ww_dropdownMenu:nth-child(2) li:nth-child(3)')
+2021-10-23 17:03:42,256	INFO	basepage.py:[find:66]	查找元素:('css selector', '#corp_scale_btn .ww_dropdownMenu:nth-child(2) li:nth-child(3)')
+2021-10-23 17:03:42,282	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:42,286	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="eae22f15d77afe06bfe8242110f3c654", element="6819c07b-2b57-471f-9a7a-370f562287f8")>
+2021-10-23 17:03:42,377	INFO	basepage.py:[find:66]	查找元素:('id', 'corp_scale_btn')
+2021-10-23 17:03:42,386	INFO	basepage.py:[js:281]	执行JavaScript脚本:arguments[0].setAttribute('style',arguments[1]);
+2021-10-23 17:03:42,391	INFO	basepage.py:[high_light_element:304]	高亮显示正在操作的页面元素:<selenium.webdriver.remote.webelement.WebElement (session="eae22f15d77afe06bfe8242110f3c654", element="bfd3340c-b30c-4352-a276-f30a6177ee4f")>
+2021-10-23 17:03:42,405	INFO	basepage.py:[get_text:106]	获取文本:('id', 'corp_scale_btn'):101-200人
